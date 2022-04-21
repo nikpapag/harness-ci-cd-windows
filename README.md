@@ -1,1 +1,1 @@
-# harness-ci-cd-windows
+# harness-cg-plugin
